@@ -1,0 +1,3992 @@
+[{
+  "_id": {
+    "$oid": "5f093303fcc2925f2b20de82"
+  },
+  "city": "New York",
+  "latitude": 40.6943,
+  "longitude": -73.9249,
+  "population": 19354922,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093303fcc2925f2b20de83"
+  },
+  "city": "Los Angeles",
+  "latitude": 34.1139,
+  "longitude": -118.4068,
+  "population": 12815475,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093304fcc2925f2b20de84"
+  },
+  "city": "Chicago",
+  "latitude": 41.8373,
+  "longitude": -87.6862,
+  "population": 8675982,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093305fcc2925f2b20de85"
+  },
+  "city": "Miami",
+  "latitude": 25.7839,
+  "longitude": -80.2102,
+  "population": 6381966,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093305fcc2925f2b20de86"
+  },
+  "city": "Dallas",
+  "latitude": 32.7936,
+  "longitude": -96.7662,
+  "population": 5733259,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093306fcc2925f2b20de87"
+  },
+  "city": "Philadelphia",
+  "latitude": 40.0077,
+  "longitude": -75.1339,
+  "population": 5637884,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093306fcc2925f2b20de88"
+  },
+  "city": "Houston",
+  "latitude": 29.7869,
+  "longitude": -95.3905,
+  "population": 5446468,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093307fcc2925f2b20de89"
+  },
+  "city": "Washington",
+  "latitude": 38.9047,
+  "longitude": -77.0163,
+  "population": 5289420,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093308fcc2925f2b20de8a"
+  },
+  "city": "Atlanta",
+  "latitude": 33.7627,
+  "longitude": -84.4225,
+  "population": 5228750,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093308fcc2925f2b20de8b"
+  },
+  "city": "Boston",
+  "latitude": 42.3188,
+  "longitude": -71.0846,
+  "population": 4637537,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093309fcc2925f2b20de8c"
+  },
+  "city": "Phoenix",
+  "latitude": 33.5722,
+  "longitude": -112.0891,
+  "population": 4081849,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093309fcc2925f2b20de8d"
+  },
+  "city": "Seattle",
+  "latitude": 47.6211,
+  "longitude": -122.3244,
+  "population": 3643765,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330afcc2925f2b20de8e"
+  },
+  "city": "San Francisco",
+  "latitude": 37.7562,
+  "longitude": -122.443,
+  "population": 3603761,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330afcc2925f2b20de8f"
+  },
+  "city": "Detroit",
+  "latitude": 42.3834,
+  "longitude": -83.1024,
+  "population": 3522206,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330bfcc2925f2b20de90"
+  },
+  "city": "San Diego",
+  "latitude": 32.8312,
+  "longitude": -117.1225,
+  "population": 3210314,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330bfcc2925f2b20de91"
+  },
+  "city": "Minneapolis",
+  "latitude": 44.9635,
+  "longitude": -93.2678,
+  "population": 2926757,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330cfcc2925f2b20de92"
+  },
+  "city": "Tampa",
+  "latitude": 27.9942,
+  "longitude": -82.4451,
+  "population": 2804240,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09330dfcc2925f2b20de93"
+  },
+  "city": "Denver",
+  "latitude": 39.7621,
+  "longitude": -104.8759,
+  "population": 2787266,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330dfcc2925f2b20de94"
+  },
+  "city": "Brooklyn",
+  "latitude": 40.6501,
+  "longitude": -73.9496,
+  "population": 2629150,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330dfcc2925f2b20de95"
+  },
+  "city": "Queens",
+  "latitude": 40.7498,
+  "longitude": -73.7976,
+  "population": 2333054,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330efcc2925f2b20de96"
+  },
+  "city": "Baltimore",
+  "latitude": 39.3051,
+  "longitude": -76.6144,
+  "population": 2170504,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09330ffcc2925f2b20de97"
+  },
+  "city": "Riverside",
+  "latitude": 33.9381,
+  "longitude": -117.3948,
+  "population": 2084749,
+  "aqi": 43,
+  "color": "#FFD600",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09330ffcc2925f2b20de98"
+  },
+  "city": "St. Louis",
+  "latitude": 38.6358,
+  "longitude": -90.2451,
+  "population": 2078283,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093310fcc2925f2b20de99"
+  },
+  "city": "Las Vegas",
+  "latitude": 36.2333,
+  "longitude": -115.2654,
+  "population": 2073045,
+  "aqi": 63,
+  "color": "#AFDF21",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093311fcc2925f2b20de9a"
+  },
+  "city": "Portland",
+  "latitude": 45.5371,
+  "longitude": -122.65,
+  "population": 2052796,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093311fcc2925f2b20de9b"
+  },
+  "city": "San Antonio",
+  "latitude": 29.4658,
+  "longitude": -98.5254,
+  "population": 2002530,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093311fcc2925f2b20de9c"
+  },
+  "city": "Sacramento",
+  "latitude": 38.5667,
+  "longitude": -121.4683,
+  "population": 1854698,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093312fcc2925f2b20de9d"
+  },
+  "city": "San Jose",
+  "latitude": 37.3021,
+  "longitude": -121.8489,
+  "population": 1821899,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093312fcc2925f2b20de9e"
+  },
+  "city": "Orlando",
+  "latitude": 28.4772,
+  "longitude": -81.3369,
+  "population": 1776841,
+  "aqi": 79,
+  "color": "#5CC035",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093313fcc2925f2b20de9f"
+  },
+  "city": "Cleveland",
+  "latitude": 41.4767,
+  "longitude": -81.6805,
+  "population": 1730363,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093314fcc2925f2b20dea0"
+  },
+  "city": "Pittsburgh",
+  "latitude": 40.4396,
+  "longitude": -79.9763,
+  "population": 1715297,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093315fcc2925f2b20dea1"
+  },
+  "city": "Cincinnati",
+  "latitude": 39.1412,
+  "longitude": -84.506,
+  "population": 1648254,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093315fcc2925f2b20dea2"
+  },
+  "city": "Manhattan",
+  "latitude": 40.7834,
+  "longitude": -73.9662,
+  "population": 1643734,
+  "aqi": 78,
+  "color": "#60C134",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093315fcc2925f2b20dea3"
+  },
+  "city": "Austin",
+  "latitude": 30.3006,
+  "longitude": -97.7517,
+  "population": 1638716,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093316fcc2925f2b20dea4"
+  },
+  "city": "Kansas City",
+  "latitude": 39.1239,
+  "longitude": -94.5541,
+  "population": 1615621,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093316fcc2925f2b20dea5"
+  },
+  "city": "Indianapolis",
+  "latitude": 39.7771,
+  "longitude": -86.1458,
+  "population": 1564699,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093317fcc2925f2b20dea6"
+  },
+  "city": "Columbus",
+  "latitude": 39.986,
+  "longitude": -82.9851,
+  "population": 1528314,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093318fcc2925f2b20dea7"
+  },
+  "city": "Virginia Beach",
+  "latitude": 36.7335,
+  "longitude": -76.0435,
+  "population": 1480383,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093318fcc2925f2b20dea8"
+  },
+  "city": "Charlotte",
+  "latitude": 35.2079,
+  "longitude": -80.8304,
+  "population": 1467362,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093319fcc2925f2b20dea9"
+  },
+  "city": "Bronx",
+  "latitude": 40.8501,
+  "longitude": -73.8662,
+  "population": 1455720,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093319fcc2925f2b20deaa"
+  },
+  "city": "Milwaukee",
+  "latitude": 43.0642,
+  "longitude": -87.9673,
+  "population": 1377808,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331afcc2925f2b20deab"
+  },
+  "city": "Providence",
+  "latitude": 41.823,
+  "longitude": -71.4187,
+  "population": 1206642,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331afcc2925f2b20deac"
+  },
+  "city": "Jacksonville",
+  "latitude": 30.3322,
+  "longitude": -81.6749,
+  "population": 1156291,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331bfcc2925f2b20dead"
+  },
+  "city": "Salt Lake City",
+  "latitude": 40.7774,
+  "longitude": -111.93,
+  "population": 1098400,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331cfcc2925f2b20deae"
+  },
+  "city": "Nashville",
+  "latitude": 36.1715,
+  "longitude": -86.7843,
+  "population": 1076645,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331cfcc2925f2b20deaf"
+  },
+  "city": "Memphis",
+  "latitude": 35.1046,
+  "longitude": -89.9773,
+  "population": 1068873,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331dfcc2925f2b20deb0"
+  },
+  "city": "Richmond",
+  "latitude": 37.5295,
+  "longitude": -77.4756,
+  "population": 1059907,
+  "aqi": 83,
+  "color": "#4AB936",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331dfcc2925f2b20deb1"
+  },
+  "city": "New Orleans",
+  "latitude": 30.0687,
+  "longitude": -89.9288,
+  "population": 1029123,
+  "aqi": 83,
+  "color": "#4AB936",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331efcc2925f2b20deb2"
+  },
+  "city": "Raleigh",
+  "latitude": 35.8324,
+  "longitude": -78.6438,
+  "population": 1018336,
+  "aqi": 85,
+  "color": "#42B636",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331efcc2925f2b20deb3"
+  },
+  "city": "Louisville",
+  "latitude": 38.1663,
+  "longitude": -85.6485,
+  "population": 1011696,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09331ffcc2925f2b20deb4"
+  },
+  "city": "Oklahoma City",
+  "latitude": 35.4676,
+  "longitude": -97.5137,
+  "population": 955998,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093320fcc2925f2b20deb5"
+  },
+  "city": "Bridgeport",
+  "latitude": 41.1918,
+  "longitude": -73.1953,
+  "population": 938406,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093320fcc2925f2b20deb6"
+  },
+  "city": "Buffalo",
+  "latitude": 42.9017,
+  "longitude": -78.8487,
+  "population": 926261,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093321fcc2925f2b20deb7"
+  },
+  "city": "Hartford",
+  "latitude": 41.7661,
+  "longitude": -72.6834,
+  "population": 914751,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093321fcc2925f2b20deb8"
+  },
+  "city": "Fort Worth",
+  "latitude": 32.7812,
+  "longitude": -97.3472,
+  "population": 874168,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093322fcc2925f2b20deb9"
+  },
+  "city": "Tucson",
+  "latitude": 32.1545,
+  "longitude": -110.8782,
+  "population": 868391,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093322fcc2925f2b20deba"
+  },
+  "city": "El Paso",
+  "latitude": 31.8479,
+  "longitude": -106.4309,
+  "population": 845674,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093323fcc2925f2b20debb"
+  },
+  "city": "Honolulu",
+  "latitude": 21.3294,
+  "longitude": -157.846,
+  "population": 833671,
+  "aqi": 88,
+  "color": "#34B137",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093324fcc2925f2b20debc"
+  },
+  "city": "Omaha",
+  "latitude": 41.2628,
+  "longitude": -96.0498,
+  "population": 827786,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093325fcc2925f2b20debd"
+  },
+  "city": "McAllen",
+  "latitude": 26.2273,
+  "longitude": -98.2471,
+  "population": 800904,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093325fcc2925f2b20debe"
+  },
+  "city": "Albuquerque",
+  "latitude": 35.1053,
+  "longitude": -106.6464,
+  "population": 758523,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093325fcc2925f2b20debf"
+  },
+  "city": "Birmingham",
+  "latitude": 33.5277,
+  "longitude": -86.7987,
+  "population": 744189,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093326fcc2925f2b20dec0"
+  },
+  "city": "Dayton",
+  "latitude": 39.7797,
+  "longitude": -84.1998,
+  "population": 718169,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093326fcc2925f2b20dec1"
+  },
+  "city": "Rochester",
+  "latitude": 43.168,
+  "longitude": -77.6162,
+  "population": 711998,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093327fcc2925f2b20dec2"
+  },
+  "city": "Sarasota",
+  "latitude": 27.3386,
+  "longitude": -82.54299999999999,
+  "population": 706245,
+  "aqi": 56,
+  "color": "#DAF00F",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093327fcc2925f2b20dec3"
+  },
+  "city": "Fresno",
+  "latitude": 36.7831,
+  "longitude": -119.7941,
+  "population": 698021,
+  "aqi": 57,
+  "color": "#D3EE11",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093328fcc2925f2b20dec4"
+  },
+  "city": "Allentown",
+  "latitude": 40.5961,
+  "longitude": -75.4755,
+  "population": 682899,
+  "aqi": 85,
+  "color": "#42B636",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093328fcc2925f2b20dec5"
+  },
+  "city": "Tulsa",
+  "latitude": 36.1284,
+  "longitude": -95.9043,
+  "population": 672054,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093329fcc2925f2b20dec6"
+  },
+  "city": "Concord",
+  "latitude": 37.9722,
+  "longitude": -122.0016,
+  "population": 654770,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332afcc2925f2b20dec7"
+  },
+  "city": "Cape Coral",
+  "latitude": 26.6445,
+  "longitude": -81.9955,
+  "population": 630134,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332afcc2925f2b20dec8"
+  },
+  "city": "Springfield",
+  "latitude": 42.1155,
+  "longitude": -72.5395,
+  "population": 628076,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332bfcc2925f2b20dec9"
+  },
+  "city": "Colorado Springs",
+  "latitude": 38.8674,
+  "longitude": -104.7606,
+  "population": 623946,
+  "aqi": 54,
+  "color": "#E6F50A",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f09332bfcc2925f2b20deca"
+  },
+  "city": "Charleston",
+  "latitude": 32.8151,
+  "longitude": -79.96300000000001,
+  "population": 616085,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332cfcc2925f2b20decb"
+  },
+  "city": "Grand Rapids",
+  "latitude": 42.9615,
+  "longitude": -85.6557,
+  "population": 602694,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332cfcc2925f2b20decc"
+  },
+  "city": "Mission Viejo",
+  "latitude": 33.6095,
+  "longitude": -117.655,
+  "population": 600474,
+  "aqi": 50,
+  "color": "#FFFF00",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09332dfcc2925f2b20decd"
+  },
+  "city": "Albany",
+  "latitude": 42.6664,
+  "longitude": -73.7987,
+  "population": 597270,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332efcc2925f2b20dece"
+  },
+  "city": "Knoxville",
+  "latitude": 35.9692,
+  "longitude": -83.9496,
+  "population": 585249,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332ffcc2925f2b20decf"
+  },
+  "city": "Baton Rouge",
+  "latitude": 30.4419,
+  "longitude": -91.131,
+  "population": 583613,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09332ffcc2925f2b20ded0"
+  },
+  "city": "Bakersfield",
+  "latitude": 35.353,
+  "longitude": -119.0359,
+  "population": 574362,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093330fcc2925f2b20ded1"
+  },
+  "city": "Ogden",
+  "latitude": 41.228,
+  "longitude": -111.9677,
+  "population": 573632,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093330fcc2925f2b20ded2"
+  },
+  "city": "New Haven",
+  "latitude": 41.3112,
+  "longitude": -72.9246,
+  "population": 568144,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093331fcc2925f2b20ded3"
+  },
+  "city": "Columbia",
+  "latitude": 34.0376,
+  "longitude": -80.9037,
+  "population": 566166,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093332fcc2925f2b20ded4"
+  },
+  "city": "Akron",
+  "latitude": 41.0798,
+  "longitude": -81.5219,
+  "population": 565920,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093333fcc2925f2b20ded5"
+  },
+  "city": "Provo",
+  "latitude": 40.2457,
+  "longitude": -111.6457,
+  "population": 503695,
+  "aqi": 56,
+  "color": "#DAF00F",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093333fcc2925f2b20ded6"
+  },
+  "city": "Worcester",
+  "latitude": 42.2705,
+  "longitude": -71.8079,
+  "population": 498997,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093333fcc2925f2b20ded7"
+  },
+  "city": "Mesa",
+  "latitude": 33.4017,
+  "longitude": -111.7181,
+  "population": 496401,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093334fcc2925f2b20ded8"
+  },
+  "city": "Palm Bay",
+  "latitude": 27.955,
+  "longitude": -80.6628,
+  "population": 489912,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093335fcc2925f2b20ded9"
+  },
+  "city": "Toledo",
+  "latitude": 41.6639,
+  "longitude": -83.5822,
+  "population": 488672,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093335fcc2925f2b20deda"
+  },
+  "city": "Murrieta",
+  "latitude": 33.571999999999996,
+  "longitude": -117.1909,
+  "population": 483681,
+  "aqi": 53,
+  "color": "#ECF707",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093336fcc2925f2b20dedb"
+  },
+  "city": "Wichita",
+  "latitude": 37.6897,
+  "longitude": -97.3441,
+  "population": 483057,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093337fcc2925f2b20dedc"
+  },
+  "city": "Des Moines",
+  "latitude": 41.5725,
+  "longitude": -93.6105,
+  "population": 481222,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093337fcc2925f2b20dedd"
+  },
+  "city": "Staten Island",
+  "latitude": 40.5834,
+  "longitude": -74.1496,
+  "population": 476015,
+  "aqi": 78,
+  "color": "#60C134",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093338fcc2925f2b20dede"
+  },
+  "city": "Long Beach",
+  "latitude": 33.798,
+  "longitude": -118.1675,
+  "population": 469450,
+  "aqi": 55,
+  "color": "#E0F30C",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093338fcc2925f2b20dedf"
+  },
+  "city": "Greenville",
+  "latitude": 34.8362,
+  "longitude": -82.3649,
+  "population": 467894,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093339fcc2925f2b20dee0"
+  },
+  "city": "Little Rock",
+  "latitude": 34.7255,
+  "longitude": -92.35799999999999,
+  "population": 442699,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093339fcc2925f2b20dee1"
+  },
+  "city": "Harrisburg",
+  "latitude": 40.2752,
+  "longitude": -76.8843,
+  "population": 441580,
+  "aqi": 85,
+  "color": "#42B636",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333afcc2925f2b20dee2"
+  },
+  "city": "Denton",
+  "latitude": 33.2176,
+  "longitude": -97.1419,
+  "population": 440146,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333bfcc2925f2b20dee3"
+  },
+  "city": "Madison",
+  "latitude": 43.0827,
+  "longitude": -89.3923,
+  "population": 439553,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333bfcc2925f2b20dee4"
+  },
+  "city": "Reno",
+  "latitude": 39.5497,
+  "longitude": -119.8483,
+  "population": 433271,
+  "aqi": 67,
+  "color": "#96D62B",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333cfcc2925f2b20dee5"
+  },
+  "city": "Port St. Lucie",
+  "latitude": 27.2796,
+  "longitude": -80.3884,
+  "population": 432589,
+  "aqi": 78,
+  "color": "#60C134",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333cfcc2925f2b20dee6"
+  },
+  "city": "Oakland",
+  "latitude": 37.7903,
+  "longitude": -122.2165,
+  "population": 425195,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333dfcc2925f2b20dee7"
+  },
+  "city": "Winston-Salem",
+  "latitude": 36.1029,
+  "longitude": -80.26100000000001,
+  "population": 416581,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09333efcc2925f2b20dee8"
+  },
+  "city": "Indio",
+  "latitude": 33.7346,
+  "longitude": -116.2346,
+  "population": 408097,
+  "aqi": 55,
+  "color": "#E0F30C",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f09333ffcc2925f2b20dee9"
+  },
+  "city": "Durham",
+  "latitude": 35.9795,
+  "longitude": -78.9032,
+  "population": 407575,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09333ffcc2925f2b20deea"
+  },
+  "city": "Syracuse",
+  "latitude": 43.0409,
+  "longitude": -76.1438,
+  "population": 407259,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093340fcc2925f2b20deeb"
+  },
+  "city": "Chattanooga",
+  "latitude": 35.0657,
+  "longitude": -85.2487,
+  "population": 407182,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093340fcc2925f2b20deec"
+  },
+  "city": "Lancaster",
+  "latitude": 40.042,
+  "longitude": -76.3012,
+  "population": 404525,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093341fcc2925f2b20deed"
+  },
+  "city": "Spokane",
+  "latitude": 47.6671,
+  "longitude": -117.43299999999999,
+  "population": 403043,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093342fcc2925f2b20deee"
+  },
+  "city": "Palm Coast",
+  "latitude": 29.5392,
+  "longitude": -81.24600000000001,
+  "population": 401757,
+  "aqi": 84,
+  "color": "#46B836",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093342fcc2925f2b20deef"
+  },
+  "city": "Arlington",
+  "latitude": 32.6998,
+  "longitude": -97.1251,
+  "population": 396394,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093343fcc2925f2b20def0"
+  },
+  "city": "Bonita Springs",
+  "latitude": 26.3559,
+  "longitude": -81.7861,
+  "population": 396220,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093343fcc2925f2b20def1"
+  },
+  "city": "Poughkeepsie",
+  "latitude": 41.6949,
+  "longitude": -73.921,
+  "population": 396041,
+  "aqi": 76,
+  "color": "#69C534",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093344fcc2925f2b20def2"
+  },
+  "city": "Stockton",
+  "latitude": 37.9766,
+  "longitude": -121.3111,
+  "population": 394467,
+  "aqi": 54,
+  "color": "#E6F50A",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093344fcc2925f2b20def3"
+  },
+  "city": "Oxnard",
+  "latitude": 34.1962,
+  "longitude": -119.1819,
+  "population": 389792,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093345fcc2925f2b20def4"
+  },
+  "city": "Augusta",
+  "latitude": 33.3645,
+  "longitude": -82.0708,
+  "population": 389383,
+  "aqi": 85,
+  "color": "#42B636",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093345fcc2925f2b20def5"
+  },
+  "city": "Scranton",
+  "latitude": 41.4044,
+  "longitude": -75.6649,
+  "population": 389022,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093346fcc2925f2b20def6"
+  },
+  "city": "Boise",
+  "latitude": 43.6007,
+  "longitude": -116.2312,
+  "population": 385218,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093347fcc2925f2b20def7"
+  },
+  "city": "Modesto",
+  "latitude": 37.6374,
+  "longitude": -121.0028,
+  "population": 381398,
+  "aqi": 57,
+  "color": "#D3EE11",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093347fcc2925f2b20def8"
+  },
+  "city": "Kissimmee",
+  "latitude": 28.3042,
+  "longitude": -81.4164,
+  "population": 374231,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093348fcc2925f2b20def9"
+  },
+  "city": "Youngstown",
+  "latitude": 41.0993,
+  "longitude": -80.6463,
+  "population": 373728,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093348fcc2925f2b20defa"
+  },
+  "city": "Aurora",
+  "latitude": 39.7084,
+  "longitude": -104.7274,
+  "population": 366623,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093349fcc2925f2b20defb"
+  },
+  "city": "Anaheim",
+  "latitude": 33.839,
+  "longitude": -117.8573,
+  "population": 352497,
+  "aqi": 56,
+  "color": "#DAF00F",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093349fcc2925f2b20defc"
+  },
+  "city": "Lancaster",
+  "latitude": 34.6934,
+  "longitude": -118.1753,
+  "population": 349218,
+  "aqi": 54,
+  "color": "#E6F50A",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09334afcc2925f2b20defd"
+  },
+  "city": "Victorville",
+  "latitude": 34.5277,
+  "longitude": -117.3536,
+  "population": 346948,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09334bfcc2925f2b20defe"
+  },
+  "city": "Pensacola",
+  "latitude": 30.4427,
+  "longitude": -87.1886,
+  "population": 344400,
+  "aqi": 78,
+  "color": "#60C134",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09334bfcc2925f2b20deff"
+  },
+  "city": "Fayetteville",
+  "latitude": 36.0713,
+  "longitude": -94.166,
+  "population": 341890,
+  "aqi": 67,
+  "color": "#96D62B",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09334cfcc2925f2b20df00"
+  },
+  "city": "Corpus Christi",
+  "latitude": 27.7261,
+  "longitude": -97.3755,
+  "population": 341435,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09334dfcc2925f2b20df01"
+  },
+  "city": "Jackson",
+  "latitude": 32.3163,
+  "longitude": -90.2124,
+  "population": 338185,
+  "aqi": 51,
+  "color": "#F8FC02",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09334dfcc2925f2b20df02"
+  },
+  "city": "Greensboro",
+  "latitude": 36.0956,
+  "longitude": -79.8268,
+  "population": 335588,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09334efcc2925f2b20df03"
+  },
+  "city": "Flint",
+  "latitude": 43.0235,
+  "longitude": -83.6922,
+  "population": 335354,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09334ffcc2925f2b20df04"
+  },
+  "city": "Santa Ana",
+  "latitude": 33.7366,
+  "longitude": -117.8819,
+  "population": 334136,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f09334ffcc2925f2b20df05"
+  },
+  "city": "Fort Wayne",
+  "latitude": 41.0885,
+  "longitude": -85.1436,
+  "population": 328564,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093350fcc2925f2b20df06"
+  },
+  "city": "Ann Arbor",
+  "latitude": 42.2755,
+  "longitude": -83.7312,
+  "population": 326288,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093350fcc2925f2b20df07"
+  },
+  "city": "Fayetteville",
+  "latitude": 35.0846,
+  "longitude": -78.9776,
+  "population": 324700,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093351fcc2925f2b20df08"
+  },
+  "city": "Santa Rosa",
+  "latitude": 38.4458,
+  "longitude": -122.7067,
+  "population": 321908,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093351fcc2925f2b20df09"
+  },
+  "city": "Lansing",
+  "latitude": 42.7142,
+  "longitude": -84.5601,
+  "population": 320928,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093352fcc2925f2b20df0a"
+  },
+  "city": "Mobile",
+  "latitude": 30.6782,
+  "longitude": -88.1163,
+  "population": 318084,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093353fcc2925f2b20df0b"
+  },
+  "city": "Lexington",
+  "latitude": 38.0423,
+  "longitude": -84.4587,
+  "population": 315939,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093353fcc2925f2b20df0c"
+  },
+  "city": "Huntsville",
+  "latitude": 34.6988,
+  "longitude": -86.6412,
+  "population": 309716,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093353fcc2925f2b20df0d"
+  },
+  "city": "Santa Clarita",
+  "latitude": 34.4155,
+  "longitude": -118.4992,
+  "population": 309378,
+  "aqi": 50,
+  "color": "#FFFF00",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093354fcc2925f2b20df0e"
+  },
+  "city": "Asheville",
+  "latitude": 35.5704,
+  "longitude": -82.5537,
+  "population": 309250,
+  "aqi": 91,
+  "color": "#27AC37",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093355fcc2925f2b20df0f"
+  },
+  "city": "St. Paul",
+  "latitude": 44.9477,
+  "longitude": -93.104,
+  "population": 306621,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093355fcc2925f2b20df10"
+  },
+  "city": "Fort Collins",
+  "latitude": 40.5475,
+  "longitude": -105.0651,
+  "population": 303184,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093356fcc2925f2b20df11"
+  },
+  "city": "Antioch",
+  "latitude": 37.9789,
+  "longitude": -121.7957,
+  "population": 302885,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093356fcc2925f2b20df12"
+  },
+  "city": "Henderson",
+  "latitude": 36.0146,
+  "longitude": -115.0362,
+  "population": 302539,
+  "aqi": 56,
+  "color": "#DAF00F",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093357fcc2925f2b20df13"
+  },
+  "city": "Trenton",
+  "latitude": 40.2236,
+  "longitude": -74.7641,
+  "population": 296869,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093357fcc2925f2b20df14"
+  },
+  "city": "Lakeland",
+  "latitude": 28.0557,
+  "longitude": -81.9545,
+  "population": 291281,
+  "aqi": 54,
+  "color": "#E6F50A",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093358fcc2925f2b20df15"
+  },
+  "city": "Shreveport",
+  "latitude": 32.4659,
+  "longitude": -93.7959,
+  "population": 287432,
+  "aqi": 83,
+  "color": "#4AB936",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093358fcc2925f2b20df16"
+  },
+  "city": "Davenport",
+  "latitude": 41.5563,
+  "longitude": -90.6052,
+  "population": 287413,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093359fcc2925f2b20df17"
+  },
+  "city": "Springfield",
+  "latitude": 37.1943,
+  "longitude": -93.2915,
+  "population": 287222,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335afcc2925f2b20df18"
+  },
+  "city": "Plano",
+  "latitude": 33.0502,
+  "longitude": -96.7487,
+  "population": 286143,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335afcc2925f2b20df19"
+  },
+  "city": "Rockford",
+  "latitude": 42.2598,
+  "longitude": -89.0641,
+  "population": 285562,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335bfcc2925f2b20df1a"
+  },
+  "city": "Newark",
+  "latitude": 40.7245,
+  "longitude": -74.1725,
+  "population": 285154,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335bfcc2925f2b20df1b"
+  },
+  "city": "Lincoln",
+  "latitude": 40.8088,
+  "longitude": -96.6796,
+  "population": 285118,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335cfcc2925f2b20df1c"
+  },
+  "city": "Round Lake Beach",
+  "latitude": 42.379,
+  "longitude": -88.0811,
+  "population": 284607,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335dfcc2925f2b20df1d"
+  },
+  "city": "South Bend",
+  "latitude": 41.6771,
+  "longitude": -86.2692,
+  "population": 281100,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335dfcc2925f2b20df1e"
+  },
+  "city": "Savannah",
+  "latitude": 32.0281,
+  "longitude": -81.1785,
+  "population": 280082,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335efcc2925f2b20df1f"
+  },
+  "city": "Irvine",
+  "latitude": 33.6772,
+  "longitude": -117.7738,
+  "population": 277453,
+  "aqi": 54,
+  "color": "#E6F50A",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09335ffcc2925f2b20df20"
+  },
+  "city": "Canton",
+  "latitude": 40.8076,
+  "longitude": -81.3678,
+  "population": 271184,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09335ffcc2925f2b20df21"
+  },
+  "city": "Jersey City",
+  "latitude": 40.7161,
+  "longitude": -74.0683,
+  "population": 270753,
+  "aqi": 67,
+  "color": "#96D62B",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093360fcc2925f2b20df22"
+  },
+  "city": "Chula Vista",
+  "latitude": 32.6281,
+  "longitude": -117.0145,
+  "population": 270471,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093360fcc2925f2b20df23"
+  },
+  "city": "Eugene",
+  "latitude": 44.0563,
+  "longitude": -123.1173,
+  "population": 267568,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093361fcc2925f2b20df24"
+  },
+  "city": "Reading",
+  "latitude": 40.34,
+  "longitude": -75.9267,
+  "population": 267300,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093362fcc2925f2b20df25"
+  },
+  "city": "Lafayette",
+  "latitude": 30.2084,
+  "longitude": -92.0323,
+  "population": 265746,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093362fcc2925f2b20df26"
+  },
+  "city": "St. Petersburg",
+  "latitude": 27.793000000000003,
+  "longitude": -82.6652,
+  "population": 263255,
+  "aqi": 51,
+  "color": "#F8FC02",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093363fcc2925f2b20df27"
+  },
+  "city": "Lubbock",
+  "latitude": 33.5642,
+  "longitude": -101.8871,
+  "population": 262505,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093363fcc2925f2b20df28"
+  },
+  "city": "Peoria",
+  "latitude": 40.7521,
+  "longitude": -89.6155,
+  "population": 262010,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093364fcc2925f2b20df29"
+  },
+  "city": "Myrtle Beach",
+  "latitude": 33.7096,
+  "longitude": -78.8842,
+  "population": 260487,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093364fcc2925f2b20df2a"
+  },
+  "city": "Laredo",
+  "latitude": 27.5617,
+  "longitude": -99.4874,
+  "population": 260244,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093365fcc2925f2b20df2b"
+  },
+  "city": "Salem",
+  "latitude": 44.9232,
+  "longitude": -123.0245,
+  "population": 259816,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093365fcc2925f2b20df2c"
+  },
+  "city": "Columbus",
+  "latitude": 32.51,
+  "longitude": -84.8771,
+  "population": 259160,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093366fcc2925f2b20df2d"
+  },
+  "city": "Montgomery",
+  "latitude": 32.3473,
+  "longitude": -86.2666,
+  "population": 255908,
+  "aqi": 63,
+  "color": "#AFDF21",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093367fcc2925f2b20df2e"
+  },
+  "city": "Chandler",
+  "latitude": 33.2827,
+  "longitude": -111.8517,
+  "population": 253458,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093368fcc2925f2b20df2f"
+  },
+  "city": "Tallahassee",
+  "latitude": 30.4551,
+  "longitude": -84.2527,
+  "population": 253030,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093368fcc2925f2b20df30"
+  },
+  "city": "Concord",
+  "latitude": 35.3932,
+  "longitude": -80.6363,
+  "population": 250186,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093369fcc2925f2b20df31"
+  },
+  "city": "Scottsdale",
+  "latitude": 33.6872,
+  "longitude": -111.8651,
+  "population": 249950,
+  "aqi": 67,
+  "color": "#96D62B",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093369fcc2925f2b20df32"
+  },
+  "city": "Killeen",
+  "latitude": 31.0755,
+  "longitude": -97.7297,
+  "population": 247489,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336afcc2925f2b20df33"
+  },
+  "city": "Glendale",
+  "latitude": 33.5797,
+  "longitude": -112.2258,
+  "population": 246709,
+  "aqi": 57,
+  "color": "#D3EE11",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09336bfcc2925f2b20df34"
+  },
+  "city": "Wilmington",
+  "latitude": 34.2101,
+  "longitude": -77.88600000000001,
+  "population": 245910,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336bfcc2925f2b20df35"
+  },
+  "city": "Winter Haven",
+  "latitude": 28.0118,
+  "longitude": -81.7017,
+  "population": 245237,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336cfcc2925f2b20df36"
+  },
+  "city": "Norfolk",
+  "latitude": 36.8945,
+  "longitude": -76.259,
+  "population": 244703,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336cfcc2925f2b20df37"
+  },
+  "city": "North Las Vegas",
+  "latitude": 36.288000000000004,
+  "longitude": -115.0901,
+  "population": 242975,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336dfcc2925f2b20df38"
+  },
+  "city": "Gilbert",
+  "latitude": 33.3103,
+  "longitude": -111.7463,
+  "population": 242354,
+  "aqi": 57,
+  "color": "#D3EE11",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09336efcc2925f2b20df39"
+  },
+  "city": "Atlantic City",
+  "latitude": 39.3797,
+  "longitude": -74.4527,
+  "population": 241363,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336efcc2925f2b20df3a"
+  },
+  "city": "Barnstable Town",
+  "latitude": 41.6722,
+  "longitude": -70.3599,
+  "population": 241132,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336ffcc2925f2b20df3b"
+  },
+  "city": "Chesapeake",
+  "latitude": 36.6778,
+  "longitude": -76.3024,
+  "population": 240397,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09336ffcc2925f2b20df3c"
+  },
+  "city": "Irving",
+  "latitude": 32.8584,
+  "longitude": -96.9702,
+  "population": 240373,
+  "aqi": 79,
+  "color": "#5CC035",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093370fcc2925f2b20df3d"
+  },
+  "city": "Hialeah",
+  "latitude": 25.8696,
+  "longitude": -80.3046,
+  "population": 239673,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093370fcc2925f2b20df3e"
+  },
+  "city": "Garland",
+  "latitude": 32.91,
+  "longitude": -96.6305,
+  "population": 238002,
+  "aqi": 56,
+  "color": "#DAF00F",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093371fcc2925f2b20df3f"
+  },
+  "city": "McKinney",
+  "latitude": 33.2016,
+  "longitude": -96.6669,
+  "population": 235134,
+  "aqi": 76,
+  "color": "#69C534",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093372fcc2925f2b20df40"
+  },
+  "city": "Fremont",
+  "latitude": 37.5265,
+  "longitude": -121.9852,
+  "population": 234962,
+  "aqi": 57,
+  "color": "#D3EE11",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093373fcc2925f2b20df41"
+  },
+  "city": "Visalia",
+  "latitude": 36.3276,
+  "longitude": -119.3269,
+  "population": 234573,
+  "aqi": 53,
+  "color": "#ECF707",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093373fcc2925f2b20df42"
+  },
+  "city": "York",
+  "latitude": 39.9651,
+  "longitude": -76.7315,
+  "population": 234245,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093374fcc2925f2b20df43"
+  },
+  "city": "Kennewick",
+  "latitude": 46.1979,
+  "longitude": -119.1732,
+  "population": 232915,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093374fcc2925f2b20df44"
+  },
+  "city": "Evansville",
+  "latitude": 37.9881,
+  "longitude": -87.5341,
+  "population": 232285,
+  "aqi": 76,
+  "color": "#69C534",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093375fcc2925f2b20df45"
+  },
+  "city": "Paradise",
+  "latitude": 36.0807,
+  "longitude": -115.1369,
+  "population": 231858,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093375fcc2925f2b20df46"
+  },
+  "city": "Nashua",
+  "latitude": 42.7491,
+  "longitude": -71.491,
+  "population": 231262,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093376fcc2925f2b20df47"
+  },
+  "city": "Arlington",
+  "latitude": 38.8786,
+  "longitude": -77.1011,
+  "population": 229534,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093376fcc2925f2b20df48"
+  },
+  "city": "Brownsville",
+  "latitude": 25.998,
+  "longitude": -97.4565,
+  "population": 227883,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093377fcc2925f2b20df49"
+  },
+  "city": "Appleton",
+  "latitude": 44.2774,
+  "longitude": -88.3894,
+  "population": 222222,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093377fcc2925f2b20df4a"
+  },
+  "city": "Gulfport",
+  "latitude": 30.4271,
+  "longitude": -89.0703,
+  "population": 221348,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093378fcc2925f2b20df4b"
+  },
+  "city": "Thousand Oaks",
+  "latitude": 34.1914,
+  "longitude": -118.8755,
+  "population": 218729,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093378fcc2925f2b20df4c"
+  },
+  "city": "Avondale",
+  "latitude": 33.3858,
+  "longitude": -112.3236,
+  "population": 217192,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093379fcc2925f2b20df4d"
+  },
+  "city": "San Bernardino",
+  "latitude": 34.1417,
+  "longitude": -117.2945,
+  "population": 216995,
+  "aqi": 32,
+  "color": "#FF9700",
+  "category": "Low air quality",
+  "pollutants": {},
+  "general_rec": "Reduce the intensity of your outdoor activities or postpone them to the early morning when ozone levels tend to be lower. In addition, consider reducing the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09337afcc2925f2b20df4e"
+  },
+  "city": "Bremerton",
+  "latitude": 47.5436,
+  "longitude": -122.7121,
+  "population": 216480,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337afcc2925f2b20df4f"
+  },
+  "city": "Roanoke",
+  "latitude": 37.2785,
+  "longitude": -79.958,
+  "population": 216177,
+  "aqi": 78,
+  "color": "#60C134",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337bfcc2925f2b20df50"
+  },
+  "city": "Hickory",
+  "latitude": 35.7426,
+  "longitude": -81.32300000000001,
+  "population": 215353,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337bfcc2925f2b20df51"
+  },
+  "city": "Kalamazoo",
+  "latitude": 42.2749,
+  "longitude": -85.5882,
+  "population": 214083,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337cfcc2925f2b20df52"
+  },
+  "city": "Tacoma",
+  "latitude": 47.2431,
+  "longitude": -122.4531,
+  "population": 213418,
+  "aqi": 63,
+  "color": "#AFDF21",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337cfcc2925f2b20df53"
+  },
+  "city": "Fontana",
+  "latitude": 34.0968,
+  "longitude": -117.4599,
+  "population": 211815,
+  "aqi": 38,
+  "color": "#FFBA00",
+  "category": "Low air quality",
+  "pollutants": {},
+  "general_rec": "Reduce the intensity of your outdoor activities or postpone them to the early morning when ozone levels tend to be lower. In addition, consider reducing the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09337dfcc2925f2b20df54"
+  },
+  "city": "Green Bay",
+  "latitude": 44.515,
+  "longitude": -87.9896,
+  "population": 208625,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337dfcc2925f2b20df55"
+  },
+  "city": "College Station",
+  "latitude": 30.5852,
+  "longitude": -96.296,
+  "population": 207308,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337efcc2925f2b20df56"
+  },
+  "city": "Moreno Valley",
+  "latitude": 33.9244,
+  "longitude": -117.2045,
+  "population": 207226,
+  "aqi": 37,
+  "color": "#FFB400",
+  "category": "Low air quality",
+  "pollutants": {},
+  "general_rec": "Reduce the intensity of your outdoor activities or postpone them to the early morning when ozone levels tend to be lower. In addition, consider reducing the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09337ffcc2925f2b20df57"
+  },
+  "city": "Amarillo",
+  "latitude": 35.1989,
+  "longitude": -101.831,
+  "population": 206072,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09337ffcc2925f2b20df58"
+  },
+  "city": "Portland",
+  "latitude": 43.6773,
+  "longitude": -70.2715,
+  "population": 206023,
+  "aqi": 86,
+  "color": "#3DB436",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093380fcc2925f2b20df59"
+  },
+  "city": "Fargo",
+  "latitude": 46.8653,
+  "longitude": -96.8292,
+  "population": 204820,
+  "aqi": 78,
+  "color": "#60C134",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093380fcc2925f2b20df5a"
+  },
+  "city": "Santa Barbara",
+  "latitude": 34.4285,
+  "longitude": -119.7202,
+  "population": 204034,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093381fcc2925f2b20df5b"
+  },
+  "city": "Norwich",
+  "latitude": 41.5495,
+  "longitude": -72.0882,
+  "population": 203916,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093382fcc2925f2b20df5c"
+  },
+  "city": "Glendale",
+  "latitude": 34.1818,
+  "longitude": -118.2468,
+  "population": 203054,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093382fcc2925f2b20df5d"
+  },
+  "city": "Yonkers",
+  "latitude": 40.9466,
+  "longitude": -73.8674,
+  "population": 202019,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093383fcc2925f2b20df5e"
+  },
+  "city": "Huntington Beach",
+  "latitude": 33.696,
+  "longitude": -118.0025,
+  "population": 201874,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093383fcc2925f2b20df5f"
+  },
+  "city": "Aurora",
+  "latitude": 41.7637,
+  "longitude": -88.2901,
+  "population": 200965,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093384fcc2925f2b20df60"
+  },
+  "city": "Gainesville",
+  "latitude": 29.6804,
+  "longitude": -82.3458,
+  "population": 199695,
+  "aqi": 79,
+  "color": "#5CC035",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093384fcc2925f2b20df61"
+  },
+  "city": "Olympia",
+  "latitude": 47.0417,
+  "longitude": -122.8959,
+  "population": 196078,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093385fcc2925f2b20df62"
+  },
+  "city": "North Port",
+  "latitude": 27.0577,
+  "longitude": -82.1975,
+  "population": 195992,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093386fcc2925f2b20df63"
+  },
+  "city": "Spring Valley",
+  "latitude": 36.0987,
+  "longitude": -115.2619,
+  "population": 195646,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093386fcc2925f2b20df64"
+  },
+  "city": "Huntington",
+  "latitude": 38.4109,
+  "longitude": -82.4344,
+  "population": 194155,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093387fcc2925f2b20df65"
+  },
+  "city": "Deltona",
+  "latitude": 28.905,
+  "longitude": -81.2136,
+  "population": 194061,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093387fcc2925f2b20df66"
+  },
+  "city": "Sunrise Manor",
+  "latitude": 36.1785,
+  "longitude": -115.04899999999999,
+  "population": 193854,
+  "aqi": 58,
+  "color": "#CDEB14",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093388fcc2925f2b20df67"
+  },
+  "city": "Grand Prairie",
+  "latitude": 32.687,
+  "longitude": -97.0209,
+  "population": 193837,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093388fcc2925f2b20df68"
+  },
+  "city": "Salinas",
+  "latitude": 36.6884,
+  "longitude": -121.6317,
+  "population": 193590,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093389fcc2925f2b20df69"
+  },
+  "city": "Waterbury",
+  "latitude": 41.5583,
+  "longitude": -73.0361,
+  "population": 191484,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338afcc2925f2b20df6a"
+  },
+  "city": "Overland Park",
+  "latitude": 38.887,
+  "longitude": -94.68700000000001,
+  "population": 191278,
+  "aqi": 67,
+  "color": "#96D62B",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338afcc2925f2b20df6b"
+  },
+  "city": "Waco",
+  "latitude": 31.5597,
+  "longitude": -97.1882,
+  "population": 188448,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338bfcc2925f2b20df6c"
+  },
+  "city": "Erie",
+  "latitude": 42.1168,
+  "longitude": -80.0733,
+  "population": 188079,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338bfcc2925f2b20df6d"
+  },
+  "city": "Cedar Rapids",
+  "latitude": 41.9667,
+  "longitude": -91.6781,
+  "population": 186160,
+  "aqi": 76,
+  "color": "#69C534",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338cfcc2925f2b20df6e"
+  },
+  "city": "Hagerstown",
+  "latitude": 39.6402,
+  "longitude": -77.7217,
+  "population": 185704,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338cfcc2925f2b20df6f"
+  },
+  "city": "Tempe",
+  "latitude": 33.3881,
+  "longitude": -111.9318,
+  "population": 185038,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338dfcc2925f2b20df70"
+  },
+  "city": "Spartanburg",
+  "latitude": 34.9437,
+  "longitude": -81.9256,
+  "population": 183184,
+  "aqi": 84,
+  "color": "#46B836",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338efcc2925f2b20df71"
+  },
+  "city": "Clarksville",
+  "latitude": 36.5696,
+  "longitude": -87.3428,
+  "population": 182849,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338efcc2925f2b20df72"
+  },
+  "city": "Gastonia",
+  "latitude": 35.2494,
+  "longitude": -81.1853,
+  "population": 180974,
+  "aqi": 79,
+  "color": "#5CC035",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338ffcc2925f2b20df73"
+  },
+  "city": "Lorain",
+  "latitude": 41.4409,
+  "longitude": -82.184,
+  "population": 180239,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09338ffcc2925f2b20df74"
+  },
+  "city": "Sioux Falls",
+  "latitude": 43.5397,
+  "longitude": -96.7321,
+  "population": 180204,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093390fcc2925f2b20df75"
+  },
+  "city": "Fort Lauderdale",
+  "latitude": 26.1412,
+  "longitude": -80.1464,
+  "population": 180072,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093390fcc2925f2b20df76"
+  },
+  "city": "Newport News",
+  "latitude": 37.1051,
+  "longitude": -76.5185,
+  "population": 179388,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093391fcc2925f2b20df77"
+  },
+  "city": "High Point",
+  "latitude": 35.9905,
+  "longitude": -79.9937,
+  "population": 177874,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093392fcc2925f2b20df78"
+  },
+  "city": "Santa Cruz",
+  "latitude": 36.9789,
+  "longitude": -122.0346,
+  "population": 177556,
+  "aqi": 67,
+  "color": "#96D62B",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093393fcc2925f2b20df79"
+  },
+  "city": "Rancho Cucamonga",
+  "latitude": 34.1248,
+  "longitude": -117.5666,
+  "population": 177452,
+  "aqi": 33,
+  "color": "#FF9D00",
+  "category": "Low air quality",
+  "pollutants": {},
+  "general_rec": "Reduce the intensity of your outdoor activities or postpone them to the early morning when ozone levels tend to be lower. In addition, consider reducing the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093393fcc2925f2b20df7a"
+  },
+  "city": "Frisco",
+  "latitude": 33.1554,
+  "longitude": -96.8217,
+  "population": 177286,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093394fcc2925f2b20df7b"
+  },
+  "city": "Danbury",
+  "latitude": 41.4016,
+  "longitude": -73.471,
+  "population": 177177,
+  "aqi": 72,
+  "color": "#7BCB33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093394fcc2925f2b20df7c"
+  },
+  "city": "Hemet",
+  "latitude": 33.7341,
+  "longitude": -116.9969,
+  "population": 176892,
+  "aqi": 49,
+  "color": "#FFF900",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f093395fcc2925f2b20df7d"
+  },
+  "city": "Oceanside",
+  "latitude": 33.2247,
+  "longitude": -117.3083,
+  "population": 176193,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093395fcc2925f2b20df7e"
+  },
+  "city": "Ontario",
+  "latitude": 34.0393,
+  "longitude": -117.6064,
+  "population": 175841,
+  "aqi": 36,
+  "color": "#FFAE00",
+  "category": "Low air quality",
+  "pollutants": {},
+  "general_rec": "Reduce the intensity of your outdoor activities or postpone them to the early morning when ozone levels tend to be lower. In addition, consider reducing the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f093396fcc2925f2b20df7f"
+  },
+  "city": "Vancouver",
+  "latitude": 45.6367,
+  "longitude": -122.59700000000001,
+  "population": 175673,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093396fcc2925f2b20df80"
+  },
+  "city": "Garden Grove",
+  "latitude": 33.7787,
+  "longitude": -117.9601,
+  "population": 174226,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093397fcc2925f2b20df81"
+  },
+  "city": "Nampa",
+  "latitude": 43.5843,
+  "longitude": -116.5628,
+  "population": 173863,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093397fcc2925f2b20df82"
+  },
+  "city": "Vallejo",
+  "latitude": 38.1133,
+  "longitude": -122.2359,
+  "population": 173844,
+  "aqi": 81,
+  "color": "#53BD35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093398fcc2925f2b20df83"
+  },
+  "city": "Elk Grove",
+  "latitude": 38.416,
+  "longitude": -121.384,
+  "population": 171844,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f093398fcc2925f2b20df84"
+  },
+  "city": "Pembroke Pines",
+  "latitude": 26.0128,
+  "longitude": -80.3382,
+  "population": 170712,
+  "aqi": 77,
+  "color": "#65C334",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339afcc2925f2b20df85"
+  },
+  "city": "Medford",
+  "latitude": 42.3372,
+  "longitude": -122.8537,
+  "population": 168219,
+  "aqi": 68,
+  "color": "#90D32D",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339afcc2925f2b20df86"
+  },
+  "city": "Peoria",
+  "latitude": 33.7844,
+  "longitude": -112.29899999999999,
+  "population": 168181,
+  "aqi": 63,
+  "color": "#AFDF21",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339bfcc2925f2b20df87"
+  },
+  "city": "Corona",
+  "latitude": 33.861999999999995,
+  "longitude": -117.5641,
+  "population": 167836,
+  "aqi": 48,
+  "color": "#FFF300",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f09339bfcc2925f2b20df88"
+  },
+  "city": "Murfreesboro",
+  "latitude": 35.8493,
+  "longitude": -86.4117,
+  "population": 167055,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339cfcc2925f2b20df89"
+  },
+  "city": "Marysville",
+  "latitude": 48.081,
+  "longitude": -122.1558,
+  "population": 166541,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339cfcc2925f2b20df8a"
+  },
+  "city": "Cary",
+  "latitude": 35.7817,
+  "longitude": -78.8175,
+  "population": 165904,
+  "aqi": 87,
+  "color": "#39B336",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339dfcc2925f2b20df8b"
+  },
+  "city": "Fredericksburg",
+  "latitude": 38.2992,
+  "longitude": -77.4872,
+  "population": 164976,
+  "aqi": 91,
+  "color": "#27AC37",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339efcc2925f2b20df8c"
+  },
+  "city": "Ocala",
+  "latitude": 29.178,
+  "longitude": -82.1511,
+  "population": 164712,
+  "aqi": 79,
+  "color": "#5CC035",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339ffcc2925f2b20df8d"
+  },
+  "city": "Manchester",
+  "latitude": 42.9848,
+  "longitude": -71.4447,
+  "population": 160742,
+  "aqi": 63,
+  "color": "#AFDF21",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f09339ffcc2925f2b20df8e"
+  },
+  "city": "Hayward",
+  "latitude": 37.6328,
+  "longitude": -122.0772,
+  "population": 160500,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a0fcc2925f2b20df8f"
+  },
+  "city": "Muskegon",
+  "latitude": 43.2281,
+  "longitude": -86.2562,
+  "population": 160142,
+  "aqi": 61,
+  "color": "#BBE41C",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a0fcc2925f2b20df90"
+  },
+  "city": "Alexandria",
+  "latitude": 38.8185,
+  "longitude": -77.0861,
+  "population": 160035,
+  "aqi": 75,
+  "color": "#6EC634",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a1fcc2925f2b20df91"
+  },
+  "city": "Springfield",
+  "latitude": 39.771,
+  "longitude": -89.6537,
+  "population": 159394,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a1fcc2925f2b20df92"
+  },
+  "city": "Lafayette",
+  "latitude": 40.399,
+  "longitude": -86.8593,
+  "population": 159293,
+  "aqi": 65,
+  "color": "#A2DB26",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a2fcc2925f2b20df93"
+  },
+  "city": "Port Arthur",
+  "latitude": 29.8554,
+  "longitude": -93.9264,
+  "population": 157934,
+  "aqi": 88,
+  "color": "#34B137",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a3fcc2925f2b20df94"
+  },
+  "city": "Palmdale",
+  "latitude": 34.5944,
+  "longitude": -118.1057,
+  "population": 157519,
+  "aqi": 53,
+  "color": "#ECF707",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f0933a3fcc2925f2b20df95"
+  },
+  "city": "Champaign",
+  "latitude": 40.1144,
+  "longitude": -88.2735,
+  "population": 156794,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a4fcc2925f2b20df96"
+  },
+  "city": "Gainesville",
+  "latitude": 34.2902,
+  "longitude": -83.8303,
+  "population": 156248,
+  "aqi": 69,
+  "color": "#8AD130",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a4fcc2925f2b20df97"
+  },
+  "city": "Enterprise",
+  "latitude": 36.0163,
+  "longitude": -115.2207,
+  "population": 155773,
+  "aqi": 59,
+  "color": "#C7E916",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities."
+},{
+  "_id": {
+    "$oid": "5f0933a5fcc2925f2b20df98"
+  },
+  "city": "Frederick",
+  "latitude": 39.4336,
+  "longitude": -77.4157,
+  "population": 154972,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a5fcc2925f2b20df99"
+  },
+  "city": "Lakewood",
+  "latitude": 39.6977,
+  "longitude": -105.1168,
+  "population": 154958,
+  "aqi": 62,
+  "color": "#B5E21E",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a6fcc2925f2b20df9a"
+  },
+  "city": "Tuscaloosa",
+  "latitude": 33.2348,
+  "longitude": -87.5266,
+  "population": 154204,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a7fcc2925f2b20df9b"
+  },
+  "city": "Sunnyvale",
+  "latitude": 37.3836,
+  "longitude": -122.0257,
+  "population": 153656,
+  "aqi": 82,
+  "color": "#4FBB35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a7fcc2925f2b20df9c"
+  },
+  "city": "Lake Charles",
+  "latitude": 30.2022,
+  "longitude": -93.2141,
+  "population": 153633,
+  "aqi": 66,
+  "color": "#9CD828",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a8fcc2925f2b20df9d"
+  },
+  "city": "Hollywood",
+  "latitude": 26.0294,
+  "longitude": -80.1679,
+  "population": 153627,
+  "aqi": 79,
+  "color": "#5CC035",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a8fcc2925f2b20df9e"
+  },
+  "city": "Pasadena",
+  "latitude": 29.6584,
+  "longitude": -95.1499,
+  "population": 153520,
+  "aqi": 85,
+  "color": "#42B636",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933a9fcc2925f2b20df9f"
+  },
+  "city": "Pomona",
+  "latitude": 34.0585,
+  "longitude": -117.7626,
+  "population": 152939,
+  "aqi": 37,
+  "color": "#FFB400",
+  "category": "Low air quality",
+  "pollutants": {},
+  "general_rec": "Reduce the intensity of your outdoor activities or postpone them to the early morning when ozone levels tend to be lower."
+},{
+  "_id": {
+    "$oid": "5f0933a9fcc2925f2b20dfa0"
+  },
+  "city": "Kansas City",
+  "latitude": 39.1234,
+  "longitude": -94.7443,
+  "population": 152938,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933aafcc2925f2b20dfa1"
+  },
+  "city": "Macon",
+  "latitude": 32.8065,
+  "longitude": -83.6974,
+  "population": 152663,
+  "aqi": 88,
+  "color": "#34B137",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933abfcc2925f2b20dfa2"
+  },
+  "city": "Escondido",
+  "latitude": 33.1347,
+  "longitude": -117.0723,
+  "population": 151969,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933abfcc2925f2b20dfa3"
+  },
+  "city": "Binghamton",
+  "latitude": 42.1014,
+  "longitude": -75.9093,
+  "population": 150747,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933acfcc2925f2b20dfa4"
+  },
+  "city": "Warner Robins",
+  "latitude": 32.5975,
+  "longitude": -83.6526,
+  "population": 149617,
+  "aqi": 84,
+  "color": "#46B836",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933acfcc2925f2b20dfa5"
+  },
+  "city": "New Bedford",
+  "latitude": 41.6697,
+  "longitude": -70.9428,
+  "population": 149528,
+  "aqi": 87,
+  "color": "#39B336",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933adfcc2925f2b20dfa6"
+  },
+  "city": "Topeka",
+  "latitude": 39.0346,
+  "longitude": -95.6955,
+  "population": 148960,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933adfcc2925f2b20dfa7"
+  },
+  "city": "Beaumont",
+  "latitude": 30.085,
+  "longitude": -94.1451,
+  "population": 148954,
+  "aqi": 70,
+  "color": "#84CF33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933aefcc2925f2b20dfa8"
+  },
+  "city": "Paterson",
+  "latitude": 40.9147,
+  "longitude": -74.1624,
+  "population": 148678,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933affcc2925f2b20dfa9"
+  },
+  "city": "Joliet",
+  "latitude": 41.5189,
+  "longitude": -88.1499,
+  "population": 148462,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933affcc2925f2b20dfaa"
+  },
+  "city": "Leesburg",
+  "latitude": 28.7658,
+  "longitude": -81.8995,
+  "population": 148161,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b0fcc2925f2b20dfab"
+  },
+  "city": "Elkhart",
+  "latitude": 41.6912,
+  "longitude": -85.962,
+  "population": 148131,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b0fcc2925f2b20dfac"
+  },
+  "city": "Odessa",
+  "latitude": 31.8831,
+  "longitude": -102.3406,
+  "population": 147810,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b1fcc2925f2b20dfad"
+  },
+  "city": "Naperville",
+  "latitude": 41.7483,
+  "longitude": -88.1657,
+  "population": 147682,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b2fcc2925f2b20dfae"
+  },
+  "city": "Fairfield",
+  "latitude": 38.2594,
+  "longitude": -122.0319,
+  "population": 147582,
+  "aqi": 64,
+  "color": "#A8DD23",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b2fcc2925f2b20dfaf"
+  },
+  "city": "Torrance",
+  "latitude": 33.8346,
+  "longitude": -118.3417,
+  "population": 146758,
+  "aqi": 54,
+  "color": "#E6F50A",
+  "category": "Moderate air quality",
+  "pollutants": {},
+  "general_rec": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, open fires and other sources of smoke."
+},{
+  "_id": {
+    "$oid": "5f0933b3fcc2925f2b20dfb0"
+  },
+  "city": "Panama City",
+  "latitude": 30.1995,
+  "longitude": -85.6003,
+  "population": 145239,
+  "aqi": 71,
+  "color": "#7FCD33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b3fcc2925f2b20dfb1"
+  },
+  "city": "Metairie",
+  "latitude": 29.9976,
+  "longitude": -90.1781,
+  "population": 144822,
+  "aqi": 80,
+  "color": "#58BE35",
+  "category": "Excellent air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b4fcc2925f2b20dfb2"
+  },
+  "city": "Bellevue",
+  "latitude": 47.5953,
+  "longitude": -122.155,
+  "population": 144444,
+  "aqi": 74,
+  "color": "#72C833",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b4fcc2925f2b20dfb3"
+  },
+  "city": "Midland",
+  "latitude": 32.0249,
+  "longitude": -102.1137,
+  "population": 144247,
+  "aqi": 73,
+  "color": "#76CA33",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+},{
+  "_id": {
+    "$oid": "5f0933b6fcc2925f2b20dfb4"
+  },
+  "city": "Merced",
+  "latitude": 37.3057,
+  "longitude": -120.4779,
+  "population": 144117,
+  "aqi": 60,
+  "color": "#C1E719",
+  "category": "Good air quality",
+  "pollutants": {},
+  "general_rec": "With this level of air quality, you have no limitations. Enjoy the outdoors!"
+}]
